@@ -1,4 +1,4 @@
-# Review of Text on Pandas Library by Darina Merzakreeva
+# Review of Text on Pandas Library
 
 ## Clarity:
 - Text effectively introduces Pandas as a data manipulation library in Python, highlighting its core functionalities such as handling structured data, cleaning, transformation and integration with various data sources.
