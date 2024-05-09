@@ -27,13 +27,17 @@ If a password can be hacked or guessed, and an access code can be intercepted, t
 ### Set Up Phone Lock
 
 Do not leave your phone unattended and always lock it. Set up a password or biometric lock. A PIN or pattern is less secure than no lock at all, but better than no lock at all.
+
 Find information about encryption methods on your device and choose the appropriate one. This can help in case of loss, as your data will be safe.
+
 Put a PIN on your SIM card, as most accounts are tied to your phone number. If an attacker gains access to your phone, even if it is locked or encrypted, the card can be inserted into another phone.
+
 Be careful when installing applications, even from official stores. When installing, check what permissions the application requires, and deny suspicious ones, such as access to SMS.
+
 Other recommendations:
-• If you lose your phone, contact Ozon and ask to temporarily block your account. Then block your SIM card with your mobile operator.
-• If you change your mobile phone number, turn off notifications in your account. If the SIM card stops working, call your mobile operator and find out the reason. Perhaps scammers are attacking you.
-• Do not enable notifications on other people's phones, even if people claiming to be Ozon employees ask you to.
+- If you lose your phone, contact Ozon and ask to temporarily block your account. Then block your SIM card with your mobile operator.
+- If you change your mobile phone number, turn off notifications in your account. If the SIM card stops working, call your mobile operator and find out the reason. Perhaps scammers are attacking you.
+- Do not enable notifications on other people's phones, even if people claiming to be Ozon employees ask you to.
 
 ### Limit the Use of Public Networks
 
@@ -45,9 +49,9 @@ Do not ignore update notifications. Always use the latest versions of applicatio
 
 ## How to Safely Use Your Ozon Seller Account
 
-• Do not share login passwords with anyone, not even your close ones or Ozon employees.
-• Use only the official Ozon Seller website: [seller.ozon.com](https://seller.ozon.com/). Save it to your browser bookmarks.
-• Make sure there is a letter "s" after the prefix http in the address bar: https://. This means that a secure connection is established.
+- Do not share login passwords with anyone, not even your close ones or Ozon employees.
+- Use only the official Ozon Seller website: [seller.ozon.com](https://seller.ozon.com/). Save it to your browser bookmarks.
+- Make sure there is a letter "s" after the prefix http in the address bar: https://. This means that a secure connection is established.
 
 If you have any questions, you can contact support:
-• in the help center on the official website [seller.ozon.com](https://seller.ozon.ru/app/dashboard/main/?helpCenter=create-issue)
+- in the help center on the official website [seller.ozon.com](https://seller.ozon.ru/app/dashboard/main/?helpCenter=create-issue)
